@@ -1,1 +1,1 @@
-# newsyoom.github.io
+# github.io
